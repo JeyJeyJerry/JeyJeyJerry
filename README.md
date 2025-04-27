@@ -1,0 +1,5 @@
+- ☰ Hi, I’m **@JeyJeyJerry**
+- ☴ Pronouns: He/him
+- ☱ I’m interested in **Cloud Computing**, **Coding**, **Linux** and all things **IT**
+- ☲ I’m currently Studying an **information technology** degree specialising in **ICT infrastructure and cloud services** at **Haaga-Helia UAS**
+- ☳ How to reach me: [Linkedin](https://www.linkedin.com/in/jerry-sjovall/), [Email](jj.sjovall@gmail.com)
