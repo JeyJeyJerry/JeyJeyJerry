@@ -4,8 +4,8 @@
 ```javascript
 const Jerry = {
   pronouns: "he" | "him",
-  interested: [Cloud computing, Coding, Linux, Video games],
-  studying: "IT specialising in ICT-infrastructure and cloud services @ Haaga-Helia UAS",
+  interested: [Cloud Computing, Coding, Linux, Video Games, Tech],
+  studying: "IT, specialising in ICT-infrastructure and cloud services @ Haaga-Helia UAS",
   code: [HTML, CSS, JavaScript]
 }
 ```
