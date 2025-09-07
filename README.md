@@ -6,6 +6,6 @@ const Jerry = {
   pronouns: "he" | "him",
   interested: [Cloud Computing, Coding, Linux, Video Games, Tech],
   studying: "IT, specialising in ICT-infrastructure and cloud services @ Haaga-Helia UAS",
-  code: [HTML, CSS, JavaScript]
+  code: [HTML, CSS, JavaScript, Python]
 }
 ```
