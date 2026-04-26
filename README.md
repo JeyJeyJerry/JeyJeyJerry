@@ -1,6 +1,6 @@
 ### Hello there! 🐈
 
-#### Aspiring nerd and Cloud Specialist
+#### Aspiring IT nerd and Cloud Specialist
 
 🏫 Studying **ICT Infrastructure and Cloud Services** @ **Haaga-Helia UAS**
 
